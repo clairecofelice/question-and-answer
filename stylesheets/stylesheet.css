@@ -106,11 +106,11 @@ form div {
     width: auto;
 }
 
-.modal img {
+.modal form {
   width: 100%;
 }
 
-img.center {
+form.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
